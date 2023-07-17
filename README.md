@@ -9,6 +9,7 @@ For any question, please send mail to below address:
 # Reference
 If you use this code, please cite the following paper.
 
+```
 @inproceedings{soun2022accurate,
   title={Accurate Stock Movement Prediction with Self-supervised Learning from Sparse Noisy Tweets},
   author={Soun, Yejun and Yoo, Jaemin and Cho, Minyong and Jeon, Jihyeong and Kang, U},
@@ -17,3 +18,4 @@ If you use this code, please cite the following paper.
   year={2022},
   organization={IEEE Computer Society}
 }
+```
